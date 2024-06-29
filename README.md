@@ -12,13 +12,13 @@
 ```
 ├── config
 │ ├── config.go
-│ └── config.yaml
 ├── email
 │ ├── email.go
 ├── templates
 │ └── example.html
 ├── main.go
 ├── go.mod
+├── config.yaml
 └── README.md
 ```
 
